@@ -4,5 +4,14 @@
     <title>Xcraft</title>
     <link>https://raw.githubusercontent.com/donbytyqi/xcraft-releases/main/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>Xcraft 1.0</title>
+      <pubDate>Sat, 26 Sep 2026 13:20:08 +0200</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-3/Xcraft-1.0-3.dmg" type="application/octet-stream" sparkle:edSignature="ttGf5PqdHcCfm0PxF3xgQxocImyMg9O4uSjctqlyCfmPtinCHe/tqqvElwFt/gKD4sUax5qfrrV48RKvdzjQBQ==" length="6467257"/>
+    </item>
   </channel>
 </rss>
