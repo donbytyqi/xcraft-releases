@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Sat, 26 Sep 2026 17:10:16 +0200</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed apps with a screen named &quot;Progress&quot; (and similar) failing to build</li><li>A new app now builds into the blank Home screen instead of next to it</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-8/Xcraft-1.0-8.dmg" type="application/octet-stream" sparkle:edSignature="zIc1qQyuwFcI36U6xjxiilDeWSAooU9p6O+9njvtv9d0uoaHoSq+QH30UXKQ1tGKtv+kfCvp5aTXrSHxlvfPCQ==" length="6505461"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sat, 26 Sep 2026 16:47:13 +0200</pubDate>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
