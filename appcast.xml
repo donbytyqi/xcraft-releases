@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Sat, 26 Sep 2026 13:30:03 +0200</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>App icon: removed the light line along the top edge</li><li>App icon: the shadow is no longer cut off at small sizes</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-4/Xcraft-1.0-4.dmg" type="application/octet-stream" sparkle:edSignature="XGwjNxB8dr9AXfGEOpeLQ+dEB/qkUlqOiPvs0HYgPf/Oa8sUk8JvoZiW06zw6TFB/hUygA3yRKJ1itIAlcdjAQ==" length="6418445"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sat, 26 Sep 2026 13:20:08 +0200</pubDate>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
