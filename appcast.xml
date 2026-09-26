@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Sat, 26 Sep 2026 16:47:13 +0200</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sign in to Firebase, Claude, ChatGPT and Gemini right inside Xcraft: no Terminal, no setup questions</li><li>Missing tools are installed for you, without an administrator password</li><li>Fixed Firebase sign-in failing with &quot;Your credentials are no longer valid&quot; on some Node.js versions</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-7/Xcraft-1.0-7.dmg" type="application/octet-stream" sparkle:edSignature="nPyM1N+ewr9olt88qQGcDwbqzOxaYj9GjONRj3SONExiNSnClEQ7tLZbfabsujgqh0SGoCH2OSLiMpbBlAjWBQ==" length="6501159"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sat, 26 Sep 2026 14:37:06 +0200</pubDate>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
