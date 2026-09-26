@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Sat, 26 Sep 2026 14:37:06 +0200</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Generated apps: detail and form screens start at the top on device, like on the canvas</li><li>Live build: a new screen appears only after the AI arrow finishes the previous one</li><li>Changes card: new files show as added, edited files as changed</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-6/Xcraft-1.0-6.dmg" type="application/octet-stream" sparkle:edSignature="XKZQEN/OE5Lagu8NfCnpQEGADqK0sdtdB5S/djsGnhVPfHAotUK38HRN9X0XNQmZuDjUIqG9aSwPwVOHQkrVAQ==" length="6431877"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sat, 26 Sep 2026 14:01:43 +0200</pubDate>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
