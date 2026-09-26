@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Sat, 26 Sep 2026 14:01:43 +0200</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Canvas: screens the AI edits are redrawn from their final content, so a tab added by the AI shows on every screen&#x27;s tab bar</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-5/Xcraft-1.0-5.dmg" type="application/octet-stream" sparkle:edSignature="4iy8bXg6tfdotQcmWtAINB67+RaOCg/EB5zme89sNl2gVV+qCHLOQP8dbi7n1KGla5/sdqSiJcokXE32wjJvAQ==" length="6424017"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sat, 26 Sep 2026 13:30:03 +0200</pubDate>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
