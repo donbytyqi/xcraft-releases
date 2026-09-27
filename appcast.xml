@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Sun, 27 Sep 2026 12:45:41 +0200</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Xcraft is now a one-time purchase: try everything free for 7 days, then buy a license for up to 2 Macs at xcraftformac.com</li><li>Works without Xcode: design, generate SwiftUI and export right away; install Xcode whenever you want to run or publish apps</li><li>Automatic build fixes repair the compile error instead of re-planning the app</li><li>The canvas keeps sample values for your app&#x27;s logic, so screens no longer show property names like &quot;Top streak text&quot;</li><li>Version history can be switched on from inside Xcraft by installing Apple&#x27;s free developer tools</li><li>Fixed the window buttons slipping to the top edge after switching between light and dark mode</li><li>Security improvements for generated projects, Git and the AI tools Xcraft runs</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-9/Xcraft-1.0-9.dmg" type="application/octet-stream" sparkle:edSignature="sE3y5eke41XUZvf7l3SOK4YAE3vDVfXLdHc7yHlInwxV5yH/S8Mb0MbKVxrwY8DF9xfvtoNfCf4kPeOneIzUDg==" length="6631363"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sat, 26 Sep 2026 17:10:16 +0200</pubDate>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
