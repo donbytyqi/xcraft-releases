@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Tue, 29 Sep 2026 14:43:18 +0200</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Every app now keeps its data on the device with SwiftData. Firebase will return in a later version.</li><li>Projects already connected to Firebase keep working.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-11/Xcraft-1.0-11.dmg" type="application/octet-stream" sparkle:edSignature="DW5JyYDIDTQu+rmdxPkR/LeikccFqOx6S3sgtnvo9m8gTkWMH3/12SYf0lVbWy4j948pgLEVRiPKzVFYsKHtCg==" length="6490588"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Tue, 29 Sep 2026 14:10:07 +0200</pubDate>
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
