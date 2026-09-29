@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Tue, 29 Sep 2026 23:38:05 +0200</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A new look that fits right in on your Mac: native controls, the system font, a Liquid Glass toolbar and a blue accent.</li><li>The agent has its own column next to the canvas. Chat with it like Messages; screens and components stay in the sidebar.</li><li>A Projects window shows every app as its icon. Press + for a new project and describe it to the agent.</li><li>Run shows your app inside Xcraft, in a real iPhone Simulator in its device frame, with touch, scrolling and typing.</li><li>Setting up Xcode takes a few plain steps, and Xcraft notices when each one is done.</li><li>The canvas matches the app on a real iPhone more closely: buttons, spacing, fields and tab bars.</li><li>A new app icon.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-12/Xcraft-1.0-12.dmg" type="application/octet-stream" sparkle:edSignature="d7c0aBQDlmp07462lblr94QwlGOlUlqLuWpWC79QgLiWswIbHorwCr4TqwhfH2bwyJLPSgKzsuzjEou8F0nBBw==" length="5895495"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Tue, 29 Sep 2026 14:43:18 +0200</pubDate>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
