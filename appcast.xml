@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Tue, 29 Sep 2026 14:10:07 +0200</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Xcraft is now $19 once, yours for life</li><li>Support is now at xcraftmac@gmail.com</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-10/Xcraft-1.0-10.dmg" type="application/octet-stream" sparkle:edSignature="ZstrU2pwImwn58EAxhxnLD9tnHZxHh6QvS/XSnp7JTY3znvzu/sB4UvVug1QcpNDyyTtA93LFje7UdsFxginBQ==" length="6631355"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Sun, 27 Sep 2026 12:45:41 +0200</pubDate>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
