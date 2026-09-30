@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Wed, 30 Sep 2026 12:05:22 +0200</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>iPhone Duo folds for real: open it, close it or stop anywhere in between, and your app keeps running as iOS moves it between the cover and the inner screen. Pick Closed, Half Open or Open Flat, or drag the hinge angle.</li><li>Swiping up from the bottom of the simulator screen goes Home, as on the phone.</li><li>Components you add from the library are Apple&#x27;s plain native ones: a toggle is just a toggle, ready for you to style.</li><li>The canvas and your running app line up more closely: spacing, padding, chips and buttons.</li><li>Settings switches tabs instantly and no longer cuts off the bottom of a page.</li><li>The canvas follows light and dark mode as soon as you change it.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-13/Xcraft-1.0-13.dmg" type="application/octet-stream" sparkle:edSignature="y28H9bXyk1Ro/QBGjiwag/QYcH35VQqV9klOWcdlzawEjVqjvZxLFoYcHutaRa77EL0Qa2cJys6F69HyK1lKDw==" length="5907129"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Tue, 29 Sep 2026 23:38:05 +0200</pubDate>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
