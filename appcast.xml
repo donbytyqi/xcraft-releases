@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Wed, 30 Sep 2026 12:11:30 +0200</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Projects open with just the agent and the canvas. Show the components sidebar or the inspector with the toolbar buttons when you need them.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-14/Xcraft-1.0-14.dmg" type="application/octet-stream" sparkle:edSignature="UyFX+mJ9HtapGhmgFUtdpa1a4KtXbMqZfmXFHpGEm3piZkU/yG/nr3/gZ08QQysdurGa/LSV7elrkrBsg192AQ==" length="5907857"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Wed, 30 Sep 2026 12:05:22 +0200</pubDate>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
