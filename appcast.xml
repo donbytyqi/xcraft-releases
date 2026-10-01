@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Xcraft 1.0</title>
+      <pubDate>Thu, 01 Oct 2026 12:19:48 +0200</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>iPhone Duo appears as a simulator only when your Mac can run apps on it properly: it needs Xcode 27.1 and the iOS 27.1 Simulator. Until then the device list tells you what to get, and can download the simulator for you.</li><li>Apps now turn to landscape on iPhone, like a new Xcode project, so they fill the unfolded iPhone Duo.</li><li>Removes the extra &quot;iPhone Duo (Open)&quot; simulator that earlier versions added.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/xcraft-releases/releases/download/v1.0-15/Xcraft-1.0-15.dmg" type="application/octet-stream" sparkle:edSignature="5Cm2fzulMR4dxmt2BMJzK+wNBKI7y/oY8tlqPo1L+eQ9OU909a3Tyo30Z7nSfM9GtWMGkAHgeESeUYz1iUs0Aw==" length="5925455"/>
+    </item>
+    <item>
+      <title>Xcraft 1.0</title>
       <pubDate>Wed, 30 Sep 2026 12:11:30 +0200</pubDate>
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
